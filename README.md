@@ -11,3 +11,7 @@ This is a blog website developed using PHP and Laravel.
 
 # License
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
+<h3> ✨ Overview ✨ </h3>
+- Users can upload articles, edit or delete them.
+- They can also read articles posted by other people and comments in their posts as well as delete comments.
